@@ -1,0 +1,7 @@
+1. Initialization : git init
+2. configuration : git config user.name "user_name"
+3. Adding : git add file_name
+4. commit : git commit -m "message"
+5. Establishing connection : git remote add origin remote url
+6. push : git push origin main
+7. pull : git pull origin main
