@@ -1,3 +1,11 @@
-1. fisrt file is in working directory
-2. Staging area/Index
-3. LOcal depository
+Five Branching commands
+1. To create a branch
+ git add branch branch_name
+2. To switch to a branch
+ git switch branch_name
+3. To switch to a branch
+ git checkout branch_name
+4. To create and switch to a branch
+ git checkout -b branch_name
+5. To push a branch to Remote Repository
+ git push alias branch_name
