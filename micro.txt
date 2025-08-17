@@ -1,11 +1,7 @@
-Five Branching commands
-1. To create a branch
- git add branch branch_name
-2. To switch to a branch
- git switch branch_name
-3. To switch to a branch
- git checkout branch_name
-4. To create and switch to a branch
- git checkout -b branch_name
-5. To push a branch to Remote Repository
- git push alias branch_name
+Workflow of GIT
+1. Initialization of Project folder
+2. Configuration of user
+3. Adding files created to staging area
+4. Commiting Staging area's files to Local Repository
+5. Establishing connection with Remote Repository (GitHub)
+6. Pushing the file version to Remote Repository
