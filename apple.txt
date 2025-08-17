@@ -1,7 +1,8 @@
-1. Initialization : git init
-2. configuration : git config user.name "user_name"
-3. Adding : git add file_name
-4. commit : git commit -m "message"
-5. Establishing connection : git remote add origin remote url
-6. push : git push origin main
-7. pull : git pull origin main
+Workflow of GIT
+1. Initialization of Project folder
+2. Configuration of user
+3. Adding files created to staging area
+4. Commiting Staging area's files to Local Repository
+5. Establishing connection with Remote Repository (GitHub)
+6. Pushing the file version to Remote Repository
+7. Pulling the file version from Remote Repository
